@@ -1,0 +1,9 @@
+glob
+cvlib==0.2.7
+matplotlib==3.5.1
+numpy==1.18.5
+opencv_python==4.5.3.56
+plot_keras_history==1.1.30
+scikit_learn==1.0.2
+tensorflow_gpu==2.3.0
+keras==2.8.0

@@ -1,0 +1,5 @@
+/dataset/
+/gender_dataset_face/
+/.vscode/
+/test_set/
+*.h5
