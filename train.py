@@ -15,7 +15,7 @@ import os
 import glob
 
 # 初始化参数
-epochs = 1000 # 训练轮数，这个参数越大，训练时间越长，结果也越准确
+epochs = 1000
 lr = 1e-3
 batch_size = 64
 img_dims = (96, 96, 3)
